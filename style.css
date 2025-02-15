@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+img {
+    width: 300px;
+    max-width: 100%;
+    border-radius: 10px;
+    margin: 10px auto;
+    display: block;
+}
